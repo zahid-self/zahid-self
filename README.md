@@ -1,4 +1,5 @@
 ### Hi there I am Zahid Hasan 👋
+A frontend developer
 
 <!--
 **safhin/safhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
