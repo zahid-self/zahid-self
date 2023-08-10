@@ -1,6 +1,6 @@
 ### Hi there I am Zahid Hasan 👋
-JavaScript Enthusiast
-Passionate Programmer
+-JavaScript Enthusiast
+-Passionate Programmer
 
 <!--
 **safhin/safhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
